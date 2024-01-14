@@ -3,7 +3,6 @@
 
 
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <a href="https://twitter.com/DevJosef1">
   <img src="https://img.shields.io/badge/X-black?logo=X&logocolor=white&style=for-the-badge"/>
   </a>
@@ -13,5 +12,6 @@
   <a href="https://se.linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
