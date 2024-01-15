@@ -28,4 +28,4 @@
 
 ### 👨‍💻: About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/enK4PGwG34IWEuh9AV/giphy.gif"> from Sweden.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/enK4PGwG34IWEuh9AV/giphy.gif" width="30"> from Sweden.
