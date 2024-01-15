@@ -20,4 +20,11 @@
 </h1>
 </div>
 
+<div align="center">
+<img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif"/>
+</div>
 
+---
+
+### 👨‍💻: About Me
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
