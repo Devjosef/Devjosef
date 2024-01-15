@@ -29,3 +29,11 @@
 ### 👨‍💻: About Me
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/enK4PGwG34IWEuh9AV/giphy.gif" width="30"> from Sweden.
+
+- 🌴: I’m working as a Solo developer and contributing to frontend and backend for building my own web applications.
+
+- 📚: Exploring documentations and writing.
+
+- 🪴: In my free time, I like solving leetcode problems and read tech articles.
+
+- 💌:How to reach me: [![Twitter Badge]("https://img.shields.io/badge/X-black?logo=X&logocolor=white&style=for-the-badge")]("https://twitter.com/DevJosef1")
