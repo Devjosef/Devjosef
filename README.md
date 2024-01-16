@@ -53,3 +53,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/enK4PGwG34IW
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 🏄‍♂️: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devjosef&theme=solarized-dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
