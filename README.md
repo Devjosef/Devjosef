@@ -59,4 +59,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/enK4PGwG34IW
 ### 🏄‍♂️: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Devjosef&theme=solarized-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/Devjosef/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devjosef)](https://github.com/anuraghazra/github-readme-stats)
