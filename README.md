@@ -28,6 +28,8 @@ I'm a full-stack developer from Sweden, currently working solo on both frontend 
 - Passionate about solving complex algorithms on LeetCode.
 - Enjoy reading the latest tech articles and exploring new documentation. Or a good book.
 - Fascinated by new use-cases for common applications or tools.
+- Crafting elegant solutions for modern web challenges
+
 
   ---
   ### 🧰 Languages and Tools:
@@ -74,6 +76,7 @@ I'm a full-stack developer from Sweden, currently working solo on both frontend 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="30" height="30"/>&nbsp;
 </div>
 
+“Precision and simplicity in code, elegance in execution.”
 
 ---
 
