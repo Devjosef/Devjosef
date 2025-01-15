@@ -24,7 +24,7 @@
 
 I'm a full-stack developer from Sweden, currently working as both front and backend for various web applications, distributed systems, and microservices.
 
-- Building web applications, microservices, open source projects, and IoT misc from the ground up.
+- Building web applications, microservices, open-source projects, and IoT misc from the ground up.
 - Passionate about solving complex problems. By destructuring, half the problem is understanding it.
 - I enjoy reading the latest tech articles, and exploring new documentation. Or a good book for inspiration.
 - Fascinated by new use-cases for common applications or tools. And the extensibility of common items & hardware using IoT.
