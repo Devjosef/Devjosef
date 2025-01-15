@@ -22,13 +22,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a full-stack developer from Sweden, currently working solo on both frontend and backend web applications.
+I'm a full-stack developer from Sweden, currently working as both front and backend for various web applications, distributed systems, and microservices.
 
-- Building web applications from the ground up.
-- Passionate about solving complex algorithms on LeetCode.
-- Enjoy reading the latest tech articles and exploring new documentation. Or a good book.
-- Fascinated by new use-cases for common applications or tools.
-- Crafting elegant solutions for modern web challenges
+- Building web applications, microservices, open source projects, and IoT misc from the ground up.
+- Passionate about solving complex problems. By destructuring, half the problem is understanding it.
+- I enjoy reading the latest tech articles, and exploring new documentation. Or a good book for inspiration.
+- Fascinated by new use-cases for common applications or tools. And the extensibility of common items & hardware using IoT.
+- Crafting elegant solutions for modern tech challenges.
 
 
   ---
