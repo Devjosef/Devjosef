@@ -2,7 +2,7 @@
 <p align="center">
   <b>Full-stack developer | Sweden</b><br>
   Building elegant solutions for modern tech challenges is my thing.<br>
-  <i> i prefer precision and simplicity in code, and elegance in execution.</i>
+  <i>I prefer precision and simplicity in code, and elegance in execution.</i>
 </p>
 <p align="center">
   <a href="https://twitter.com/DevJosef1" aria-label="Twitter">
@@ -11,22 +11,19 @@
   <img src="https://komarev.com/ghpvc/?username=Devjosef&style=flat-square&color=blue" alt="Profile view counter"/>
 </p>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Coding animation" width="200"/>
 </p>
 
-
-
 ### 🧑‍💻 About Me
 
-- Full-stack developer with a passion for both frontend finesse & design aswell as backend architecture.
+- Full-stack developer with a passion for both frontend finesse & design as well as backend architecture.
 - I love breaking down complex problems and crafting scalable, maintainable solutions.
 - Always exploring new tech, reading docs, and finding inspiration in both code and books.
 - Fascinated by IoT, open-source, and the creative potential of modern web tools.
+- Actively working with **Machine Learning** and **AI**—from integrating LLMs to building smart automation and data-driven features.
 
-
-  ---
+---
 ### 🛠️ Tech Stack
 
 #### Frontend
@@ -46,6 +43,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="30" height="30" aria-label="NGINX"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="30" height="30" aria-label="GraphQL"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30" aria-label="PostgreSQL"/>
+</p>
+
+#### ML & AI
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30" aria-label="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="30" height="30" aria-label="TensorFlow"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30" aria-label="Jupyter"/>
+
 </p>
 
 #### DevOps & Tools
@@ -84,4 +89,4 @@
 
 <p align="center">
   <i>Let's build something that changes the world together. Feel free to connect!</i>
-</p>
+</p> 
