@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Coding animation" width="200"/>
+  <img src="sirius-logo-animated.svg" alt="Sirius AI Integration Logo" width="200"/>
 </p>
 
 ### 🧑‍💻 About Me
@@ -50,7 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30" aria-label="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="30" height="30" aria-label="TensorFlow"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30" aria-label="Jupyter"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="30" height="30" aria-label="MATLAB"/>
 </p>
 
 #### DevOps & Tools
