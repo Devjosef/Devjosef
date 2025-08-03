@@ -21,7 +21,7 @@
 - I love breaking down complex problems and crafting scalable, maintainable solutions.
 - Always exploring new tech, reading docs, and finding inspiration in both code and books.
 - Fascinated by IoT, open-source, and the creative potential of modern web tools.
-- Actively working with **Machine Learning** and **AI**—from integrating LLMs to building smart automation and data-driven features.
+- Actively working with **Machine Learning** and **AI** from integrating LLMs to building smart automation and data-driven features.
 
 ---
 ### 🛠️ Tech Stack
