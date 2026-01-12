@@ -6,7 +6,6 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/DevJosef1" aria-label="Twitter">
-    <img src="https://img.shields.io/badge/X-black?logo=X&logocolor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Devjosef&style=flat-square&color=blue" alt="Profile view counter"/>
 </p>
@@ -78,15 +77,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devjosef&show_icons=true&theme=radical" alt="GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devjosef&layout=compact" alt="Top languages" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <i>Let's build something that changes the world together. Feel free to connect!</i>
+  <i>Let's build something. Feel free to connect!</i>
 </p> 
