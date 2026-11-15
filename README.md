@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Josef 👋</h1>
 <p align="center">
-  <b>Full-stack developer | Sweden</b><br>
+  <b>Backend & Data Engineer | Sweden</b><br>
   Building elegant solutions for modern tech challenges is my thing.<br>
   <i>I prefer precision and simplicity in code, and elegance in execution.</i>
 </p>
